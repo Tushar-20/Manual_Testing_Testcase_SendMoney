@@ -24,5 +24,5 @@ I have created the test cases (Positive & Negative) based on two scenarios:
 - **Send Money**
 - **Add Money**
 
-> **Note:** This spreadsheet contains two sections, one for the "Send Money" functionality and another for "Add Money."
+**Note:** **This spreadsheet contains two sections, one for the "Send Money" functionality and another for "Add Money."**
 
